@@ -1,0 +1,10 @@
+[package]
+name = "rendy-brot"
+version = "0.1.0"
+authors = ["BlockCat <zinoonomiwo@gmail.com>"]
+edition = "2018"
+
+
+[dependencies]
+glium = { git = "https://github.com/glium/glium"}
+glutin = "0.22.0-alpha3"
